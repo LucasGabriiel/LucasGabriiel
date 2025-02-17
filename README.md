@@ -16,7 +16,7 @@ Desenvolvi uma sólida base em programação e design de interfaces, com foco em
             style="width: 35px; height: auto;"
         />
     </a>
-    <a href="https://www.behance.net/portfolio/editor?tracking_source=upload">
+    <a href="https://www.behance.net/lucasgtais">
         <img 
             alt="Behance Logo" 
             title="Meu Portfólio" 
